@@ -6,7 +6,7 @@
 Make sure to set the files to [never expire](http://developer.yahoo.com/performance/rules.html#expires) for this to have an effect.
 
 ## ABout
-`gulp-revm` is a modified version of `gulp-rev` based on the main processing for appending the hash to filedname with `gulp-revm-collector`, in the plugin you can use all API as in gulp-rev.
+`gulp-revm` is a modified version of `gulp-rev` based on the main processing for appending the hash to filename with `gulp-revm-collector`, in the plugin you can use all API as in gulp-rev.`gulp-revm` through the `gulp-revm-collector` can easily solve the page loading process cache with file-generated md5.
 
 ## Install
 
