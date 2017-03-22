@@ -5,7 +5,7 @@ var through = require('through2');
 var objectAssign = require('object-assign');
 var file = require('vinyl-file');
 var revHash = require('rev-hash');
-var revPath = require('rev-path');
+var revPath = require('revm-path');
 var sortKeys = require('sort-keys');
 var modifyFilename = require('modify-filename');
 
